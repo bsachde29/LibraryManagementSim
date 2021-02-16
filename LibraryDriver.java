@@ -1,5 +1,4 @@
 //Name: Bharat Sachdev
-//Project: ATCS Final
 
 import java.io.PrintWriter;
 import java.util.*;
