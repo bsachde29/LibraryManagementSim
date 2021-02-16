@@ -1,0 +1,258 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         DAY 1
+
+
+--> User ID: 1, Name: Song Wunderlich successfully issued Dwitiyo Adwitiyo
+
+--> User ID: 3, Name: Tari Tardiff successfully issued The Book of the Hunter
+
+--> User ID: 3, Name: Tari Tardiff returned book The Book of the Hunter
+
+--> User ID: 4, Name: Dirk Lollis successfully issued River of Smoke
+
+--> User ID: 4, Name: Dirk Lollis returned book River of Smoke
+
+--> User ID: 5, Name: Rodney Nastasi successfully issued Chitrakalpa
+
+--> User ID: 8, Name: Santa Dykes successfully issued A Strange and Sublime Address
+
+--> User ID: 9, Name: Renita Quillen successfully issued Man and Superman
+
+--> User ID: 10, Name: Lisandra Holliman successfully issued Anna Karenina
+
+--> User ID: 11, Name: Latasha Hutchcraft successfully issued My Country My Life
+
+--> User ID: 12, Name: Trista Cornett successfully issued Once Upon a Time
+
+--> User ID: 12, Name: Trista Cornett returned book Once Upon a Time
+
+--> User ID: 13, Name: Cleopatra Aikens successfully issued Journey to Ithaca
+
+--> User ID: 14, Name: Spencer Christensen successfully issued Around the World in eighty days
+
+--> User ID: 15, Name: Hyman Dimick successfully issued The Making of India
+
+--> User ID: 16, Name: Ayanna Feldt successfully issued One Straw Revolution
+
+--> User ID: 17, Name: Laverna Binder successfully issued Problems of the East
+
+--> User ID: 18, Name: Viki Bertram successfully issued Invisible Man
+
+--> User ID: 19, Name: Laurinda Hendershot successfully issued Hind Swaraj
+
+--> User ID: 20, Name: Arthur Fincham successfully issued Don Quixote
+
+--> User ID: 21, Name: Selena Abrev successfully issued The Illicit Happiness of Other People
+
+--> User ID: 23, Name: Rebbeca Harner successfully issued Problems of the East
+
+--> User ID: 23, Name: Rebbeca Harner returned book Problems of the East
+
+--> User ID: 25, Name: Adrienne Weedman has been added to the queue for Invisible Man
+
+--> User ID: 26, Name: Shay Hankinson successfully issued New Dimensions of India’s Foreign Policy
+
+--> User ID: 27, Name: Rogelio Loux successfully issued Crime and Punishment
+
+--> User ID: 28, Name: Tanisha Darrington successfully issued Kubla Khan
+
+--> User ID: 28, Name: Tanisha Darrington returned book Kubla Khan
+
+--> User ID: 30, Name: Berta Trigg successfully issued Dutta	Captive Lady
+
+--> User ID: 1, Name: Song Wunderlich successfully issued Buddhacharit
+
+--> User ID: 2, Name: Ellyn Moorehouse successfully issued Why Socialism
+
+--> User ID: 2, Name: Ellyn Moorehouse returned book Why Socialism
+
+--> User ID: 3, Name: Tari Tardiff successfully issued Uncle Tom’s Cabin
+
+--> User ID: 4, Name: Dirk Lollis successfully issued Shakuntala
+
+--> User ID: 5, Name: Rodney Nastasi has been added to the queue for Invisible Man
+
+--> User ID: 6, Name: Mimi Schuster has been added to the queue for Journey to Ithaca
+
+--> User ID: 7, Name: Birdie Hakim successfully issued Karmabhoomi
+
+--> User ID: 9, Name: Renita Quillen successfully issued Kala Gulab (Black Rose)
+
+--> User ID: 10, Name: Lisandra Holliman successfully issued Apple Cart
+
+--> User ID: 10, Name: Lisandra Holliman returned book Apple Cart
+
+--> User ID: 11, Name: Latasha Hutchcraft successfully issued Pather Panchali
+
+--> User ID: 12, Name: Trista Cornett successfully issued India Divided
+
+--> User ID: 13, Name: Cleopatra Aikens returned book Journey to Ithaca
+
+--> User ID: 6, Name: Mimi Schuster was issued book Journey to Ithaca and removed from queue.
+
+--> User ID: 14, Name: Spencer Christensen successfully issued YOLO
+
+--> User ID: 15, Name: Hyman Dimick successfully issued Two Leaves and a Bud
+
+--> User ID: 15, Name: Hyman Dimick returned book Two Leaves and a Bud
+
+--> User ID: 17, Name: Laverna Binder successfully issued The Castle
+
+--> User ID: 17, Name: Laverna Binder returned book Problems of the East
+
+--> User ID: 18, Name: Viki Bertram successfully issued My Journey
+
+--> User ID: 20, Name: Arthur Fincham returned book Don Quixote
+
+--> User ID: 21, Name: Selena Abrev successfully issued Rajtarangini
+
+--> User ID: 23, Name: Rebbeca Harner successfully issued Idris: Keeper of the Light
+
+--> User ID: 24, Name: Noel Brazil has been added to the queue for Invisible Man
+
+--> User ID: 25, Name: Adrienne Weedman successfully issued Jinnah- India, Partition, Independence
+
+--> User ID: 26, Name: Shay Hankinson successfully issued Games at Twilight
+
+--> User ID: 26, Name: Shay Hankinson returned book New Dimensions of India’s Foreign Policy
+
+--> User ID: 27, Name: Rogelio Loux successfully issued A Revenue Stamp (autobiography)
+
+--> User ID: 27, Name: Rogelio Loux returned book Crime and Punishment
+
+--> User ID: 29, Name: Diego Marriott successfully issued Avigyan Sakuntalam
+
+--> User ID: 29, Name: Diego Marriott returned book Avigyan Sakuntalam
+
+--> User ID: 30, Name: Berta Trigg successfully issued Devi Chaudharani
+
+--> User ID: 30, Name: Berta Trigg returned book Dutta	Captive Lady
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         DAY 2
+
+
+--> User ID: 1, Name: Song Wunderlich successfully issued Gathering Strom
+
+--> User ID: 2, Name: Ellyn Moorehouse successfully issued China Passage
+
+--> User ID: 3, Name: Tari Tardiff successfully issued Ferary Queen
+
+--> User ID: 4, Name: Dirk Lollis successfully issued Alice in Wonderland
+
+--> User ID: 6, Name: Mimi Schuster successfully issued Voices in the City
+
+--> User ID: 7, Name: Birdie Hakim successfully issued Hajar Churashir Ma
+
+--> User ID: 8, Name: Santa Dykes successfully issued Blind Beauty
+
+--> User ID: 8, Name: Santa Dykes returned book Blind Beauty
+
+--> User ID: 9, Name: Renita Quillen successfully issued Hind Swaraj
+
+--> User ID: 10, Name: Lisandra Holliman successfully issued A Horse Walks Into a Bar
+
+--> User ID: 11, Name: Latasha Hutchcraft successfully issued Going for Gold
+
+--> User ID: 13, Name: Cleopatra Aikens successfully issued The Shadow Lines
+
+--> User ID: 14, Name: Spencer Christensen successfully issued Origin of species
+
+--> User ID: 16, Name: Ayanna Feldt successfully issued War and peace
+
+--> User ID: 17, Name: Laverna Binder successfully issued Putul Nacher Itikatha
+
+--> User ID: 17, Name: Laverna Binder returned book Putul Nacher Itikatha
+
+--> User ID: 19, Name: Laurinda Hendershot successfully issued My Indian Years
+
+--> User ID: 19, Name: Laurinda Hendershot returned book My Indian Years
+
+--> User ID: 20, Name: Arthur Fincham successfully issued Clear Light of Day
+
+--> User ID: 22, Name: Wenona Straus successfully issued The Elephant Bird
+
+--> User ID: 23, Name: Rebbeca Harner successfully issued Cry, The Peacock
+
+--> User ID: 24, Name: Noel Brazil successfully issued Decamaren
+
+--> User ID: 25, Name: Adrienne Weedman successfully issued For whom the Bell Tolls
+
+--> User ID: 27, Name: Rogelio Loux successfully issued Kanterbary Tells
+
+--> User ID: 28, Name: Tanisha Darrington successfully issued Hadal: Inspired by a True Story
+
+--> User ID: 29, Name: Diego Marriott successfully issued Sea of Poppies
+
+--> User ID: 30, Name: Berta Trigg successfully issued The Nehrus; Motilal and Jawaharlal
+
+--> User ID: 30, Name: Berta Trigg returned book The Nehrus; Motilal and Jawaharlal
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         DAY 3
+
+
+--> User ID: 1, Name: Song Wunderlich successfully issued Das Capital
+
+--> User ID: 3, Name: Tari Tardiff successfully issued Rasidi Ticket
+
+--> User ID: 4, Name: Dirk Lollis successfully issued Vardaan
+
+--> User ID: 5, Name: Rodney Nastasi has been added to the queue for Chitrakalpa
+
+--> User ID: 6, Name: Mimi Schuster successfully issued Aranyer Adhikar
+
+--> User ID: 6, Name: Mimi Schuster returned book Voices in the City
+
+--> User ID: 7, Name: Birdie Hakim successfully issued All the Prime Minister’s Men
+
+--> User ID: 8, Name: Santa Dykes successfully issued 	Last Days of Pompeii
+
+--> User ID: 9, Name: Renita Quillen has been added to the queue for Buddhacharit
+
+--> User ID: 10, Name: Lisandra Holliman successfully issued Races and Cultures of India
+
+--> User ID: 11, Name: Latasha Hutchcraft successfully issued Ben Hur
+
+--> User ID: 12, Name: Trista Cornett successfully issued Bela Obela Kalbela
+
+--> User ID: 13, Name: Cleopatra Aikens has been added to the queue for Karmabhoomi
+
+--> User ID: 14, Name: Spencer Christensen successfully issued Blind Beauty
+
+--> User ID: 15, Name: Hyman Dimick successfully issued The Godfather
+
+--> User ID: 16, Name: Ayanna Feldt successfully issued The Judgement
+
+--> User ID: 17, Name: Laverna Binder successfully issued Three Musketeers
+
+--> User ID: 18, Name: Viki Bertram successfully issued Jurassic Park
+
+--> User ID: 19, Name: Laurinda Hendershot has been added to the queue for All the Prime Minister’s Men
+
+--> User ID: 20, Name: Arthur Fincham successfully issued Khan Pakhtoon
+
+--> User ID: 20, Name: Arthur Fincham returned book Khan Pakhtoon
+
+--> User ID: 21, Name: Selena Abrev successfully issued Ichamati
+
+--> User ID: 21, Name: Selena Abrev returned book Rajtarangini
+
+--> User ID: 22, Name: Wenona Straus successfully issued Coolie
+
+--> User ID: 23, Name: Rebbeca Harner successfully issued What Young India Wants
+
+--> User ID: 24, Name: Noel Brazil successfully issued Terhi Lakeer
+
+--> User ID: 25, Name: Adrienne Weedman successfully issued My experiments with Truth
+
+--> User ID: 26, Name: Shay Hankinson successfully issued Geet Govind
+
+--> User ID: 27, Name: Rogelio Loux successfully issued Pather Panchali
+
+--> User ID: 28, Name: Tanisha Darrington has been added to the queue for A Horse Walks Into a Bar
+
+--> User ID: 29, Name: Diego Marriott successfully issued I Shall Not Hear the Nightingale
+
+--> User ID: 30, Name: Berta Trigg has been added to the queue for Chitrakalpa
+
